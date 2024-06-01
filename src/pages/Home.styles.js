@@ -74,7 +74,7 @@ export const ButtonContainer = styled.div`
         font-weight: 700;
         line-height: 2.4rem;
         cursor: pointer;
-        transition: all 3s;
+        transition: all 2s;
 
         &:focus{
             color: ${props => props.theme.white};
